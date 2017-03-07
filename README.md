@@ -1,6 +1,6 @@
 #Apress Source Code
 
-This repository accompanies [*Regulation A+*](http://www.apress.com/9781430257318) by Robert R. Kaplan (Apress, 2015).
+This repository accompanies [*Regulation A+*](http://www.apress.com/9781430257318) by Paul M. Getty, Dinesh Gupta, and Robert R. Kaplan, Jr. (Apress, 2015).
 
 ![Cover image](9781430257318.jpg)
 
